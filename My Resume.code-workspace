@@ -1,0 +1,83 @@
+{
+	"folders": [
+		{
+			"name": "My Resume",
+			"path": "."
+		},
+		{
+			"name": "GenAICode-1",
+			"path": "../GenAICode-1"
+		},
+		{
+			"name": "6.1+Font+Properties",
+			"path": "../6.1+Font+Properties"
+		},
+		{
+			"name": "6.0 CSS Colors",
+			"path": "../../Users/sipmaury/Downloads/6.0+CSS+Colors/6.0 CSS Colors"
+		},
+		{
+			"name": "5.4+Color+Vocab+Project",
+			"path": "../5.4+Color+Vocab+Project"
+		},
+		{
+			"name": "5.3 CSS Selectors",
+			"path": "../5.3 CSS Selectors"
+		},
+		{
+			"name": "5.1. Adding CSS",
+			"path": "../5.1. Adding CSS"
+		},
+		{
+			"name": "4.3 HTML Porfolio Project",
+			"path": "../4.3 HTML Porfolio Project"
+		},
+		{
+			"name": "4.1+Webpages",
+			"path": "../4.1+Webpages"
+		},
+		{
+			"name": "4.0 File Paths",
+			"path": "../4.0 File Paths"
+		},
+		{
+			"name": "3.4 Birthday Invite Project",
+			"path": "../3.4 Birthday Invite Project"
+		},
+		{
+			"name": "3.3 Image Elements",
+			"path": "../3.3 Image Elements"
+		},
+		{
+			"name": "3.2 Anchor Elements",
+			"path": "../3.2 Anchor Elements"
+		},
+		{
+			"name": "3.1 Nesting and Indentation",
+			"path": "../3.1 Nesting and Indentation"
+		},
+		{
+			"name": "3.0 List Elements",
+			"path": "../3.0 List Elements"
+		},
+		{
+			"name": "2.4 Movie Ranking Project",
+			"path": "../../Users/sipmaury/Downloads/2.4+Movie+Ranking+Project/2.4 Movie Ranking Project"
+		},
+		{
+			"name": "2.3 Void Elements",
+			"path": "../2.3 Void Elements"
+		},
+		{
+			"name": "2.2 Paragraph Element",
+			"path": "../2.2 Paragraph Element"
+		},
+		{
+			"name": "2.1 Heading Element",
+			"path": "../2.1 Heading Element"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "My Resume"
+    }
+}
